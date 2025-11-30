@@ -47,7 +47,7 @@ This creates a synchronized, intuitive, and contact-free way to control both rob
 Special thanks to :  
 - **Ahmad Sheikh Daher** [LinkedIn](https://www.linkedin.com/in/ahmad-sheikh-daher/)  
 - **May Homsi** [LinkedIn](https://www.linkedin.com/in/may-homsi-04764335b/)  
-- **Izzat Kawadri** [LinkedIn](www.linkedin.com/in/izzat-kawadri)
+- **Izzat Kawadri** [LinkedIn](https://www.linkedin.com/in/izzat-kawadri/)
 
 ---
 
