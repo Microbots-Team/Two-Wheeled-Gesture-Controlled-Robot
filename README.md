@@ -1,5 +1,21 @@
 # 🐢 Turtulisim Robot
 
+<img src="images/1.png" alt="project">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
+
+  
+
+
+
+
+---
+
+## 💡 Project Overview
+
 A two-wheeled robot system 🤖 designed to be controlled in **two synchronized modes**:
 
  1️⃣ **Physical Robot Control** – commands sent to the real robot hardware  
@@ -13,10 +29,6 @@ This setup ensures that both the **real robot** and the **TurtleSim robot** move
 
 The system is built within the **ROS environment** for integrated control and processing.  
 
-
----
-
-## 💡 Project Overview
 The main goal of this project is to combine **ROS (Robot Operating System)**, **gesture recognition**, and **robot simulation** into one integrated control system.
 
 A camera captures hand gestures, which are processed using **MediaPipe**, converted into ROS movement commands, and broadcast simultaneously to:
